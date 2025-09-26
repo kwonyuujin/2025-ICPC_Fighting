@@ -1,0 +1,27 @@
+﻿# ===== Visual Studio / C++ =====
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+ipch/
+
+# Intermediates / caches
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.opendb
+*.VC.db
+*.log
+*.cache
+*.vsidx
