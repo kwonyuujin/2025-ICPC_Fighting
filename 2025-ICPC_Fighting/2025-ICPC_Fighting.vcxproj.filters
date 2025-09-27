@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="ACMhotel.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ACMhotel.cpp">
+    <ClCompile Include="11068.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17520.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
